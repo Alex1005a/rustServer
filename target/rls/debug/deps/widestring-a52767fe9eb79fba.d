@@ -1,0 +1,11 @@
+c:\Users\79211\Documents\MyCode\rustServer\target\rls\debug\deps\widestring-a52767fe9eb79fba.rmeta: C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.2\src\lib.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.2\src\platform\mod.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.2\src\platform\windows.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.2\src\ucstr.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.2\src\ucstring.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.2\src\ustr.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.2\src\ustring.rs
+
+c:\Users\79211\Documents\MyCode\rustServer\target\rls\debug\deps\widestring-a52767fe9eb79fba.d: C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.2\src\lib.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.2\src\platform\mod.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.2\src\platform\windows.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.2\src\ucstr.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.2\src\ucstring.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.2\src\ustr.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.2\src\ustring.rs
+
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.2\src\lib.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.2\src\platform\mod.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.2\src\platform\windows.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.2\src\ucstr.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.2\src\ucstring.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.2\src\ustr.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\widestring-0.4.2\src\ustring.rs:

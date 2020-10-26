@@ -1,0 +1,13 @@
+c:\Users\79211\Documents\MyCode\rustServer\target\rls\debug\deps\url-47c54f7a8fa3100e.rmeta: C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.1.1\src\lib.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.1.1\src\host.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.1.1\src\origin.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.1.1\src\parser.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.1.1\src\path_segments.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.1.1\src\query_encoding.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.1.1\src\slicing.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.1.1\src\form_urlencoded.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.1.1\src\quirks.rs
+
+c:\Users\79211\Documents\MyCode\rustServer\target\rls\debug\deps\url-47c54f7a8fa3100e.d: C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.1.1\src\lib.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.1.1\src\host.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.1.1\src\origin.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.1.1\src\parser.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.1.1\src\path_segments.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.1.1\src\query_encoding.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.1.1\src\slicing.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.1.1\src\form_urlencoded.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.1.1\src\quirks.rs
+
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.1.1\src\lib.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.1.1\src\host.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.1.1\src\origin.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.1.1\src\parser.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.1.1\src\path_segments.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.1.1\src\query_encoding.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.1.1\src\slicing.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.1.1\src\form_urlencoded.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.1.1\src\quirks.rs:

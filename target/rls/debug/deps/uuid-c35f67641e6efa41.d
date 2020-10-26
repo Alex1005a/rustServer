@@ -1,0 +1,13 @@
+c:\Users\79211\Documents\MyCode\rustServer\target\rls\debug\deps\uuid-c35f67641e6efa41.rmeta: C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.1\src\lib.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.1\src\builder\mod.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.1\src\builder\error.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.1\src\error.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.1\src\parser\mod.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.1\src\parser\error.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.1\src\prelude.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.1\src\adapter\mod.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.1\src\v4.rs
+
+c:\Users\79211\Documents\MyCode\rustServer\target\rls\debug\deps\uuid-c35f67641e6efa41.d: C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.1\src\lib.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.1\src\builder\mod.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.1\src\builder\error.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.1\src\error.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.1\src\parser\mod.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.1\src\parser\error.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.1\src\prelude.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.1\src\adapter\mod.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.1\src\v4.rs
+
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.1\src\lib.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.1\src\builder\mod.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.1\src\builder\error.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.1\src\error.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.1\src\parser\mod.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.1\src\parser\error.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.1\src\prelude.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.1\src\adapter\mod.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.1\src\v4.rs:

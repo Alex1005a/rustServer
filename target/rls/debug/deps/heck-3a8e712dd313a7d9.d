@@ -1,0 +1,13 @@
+c:\Users\79211\Documents\MyCode\rustServer\target\rls\debug\deps\heck-3a8e712dd313a7d9.rmeta: C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\lib.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\camel.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\kebab.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\mixed.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\shouty_snake.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\snake.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\title.rs
+
+c:\Users\79211\Documents\MyCode\rustServer\target\rls\debug\deps\libheck-3a8e712dd313a7d9.rlib: C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\lib.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\camel.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\kebab.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\mixed.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\shouty_snake.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\snake.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\title.rs
+
+c:\Users\79211\Documents\MyCode\rustServer\target\rls\debug\deps\heck-3a8e712dd313a7d9.d: C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\lib.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\camel.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\kebab.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\mixed.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\shouty_snake.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\snake.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\title.rs
+
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\lib.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\camel.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\kebab.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\mixed.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\shouty_snake.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\snake.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\heck-0.3.1\src\title.rs:

@@ -1,0 +1,12 @@
+C:\Users\79211\Documents\MyCode\rustServer\target\debug\deps\rustversion-290d535735d9267a.dll: C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\rustversion-1.0.3\src\lib.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\rustversion-1.0.3\src\attr.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\rustversion-1.0.3\src\bound.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\rustversion-1.0.3\src\date.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\rustversion-1.0.3\src\expr.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\rustversion-1.0.3\src\time.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\rustversion-1.0.3\src\version.rs C:\Users\79211\Documents\MyCode\rustServer\target\debug\build\rustversion-5d0d07e2a270c8c3\out/version.rs
+
+C:\Users\79211\Documents\MyCode\rustServer\target\debug\deps\rustversion-290d535735d9267a.d: C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\rustversion-1.0.3\src\lib.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\rustversion-1.0.3\src\attr.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\rustversion-1.0.3\src\bound.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\rustversion-1.0.3\src\date.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\rustversion-1.0.3\src\expr.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\rustversion-1.0.3\src\time.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\rustversion-1.0.3\src\version.rs C:\Users\79211\Documents\MyCode\rustServer\target\debug\build\rustversion-5d0d07e2a270c8c3\out/version.rs
+
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\rustversion-1.0.3\src\lib.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\rustversion-1.0.3\src\attr.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\rustversion-1.0.3\src\bound.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\rustversion-1.0.3\src\date.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\rustversion-1.0.3\src\expr.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\rustversion-1.0.3\src\time.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\rustversion-1.0.3\src\version.rs:
+C:\Users\79211\Documents\MyCode\rustServer\target\debug\build\rustversion-5d0d07e2a270c8c3\out/version.rs:

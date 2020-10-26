@@ -1,0 +1,12 @@
+c:\Users\79211\Documents\MyCode\rustServer\target\rls\debug\deps\base64-6b68d7af420827c7.rmeta: C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\lib.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\chunked_encoder.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\display.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\tables.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\write\mod.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\write\encoder.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\encode.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\decode.rs
+
+c:\Users\79211\Documents\MyCode\rustServer\target\rls\debug\deps\base64-6b68d7af420827c7.d: C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\lib.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\chunked_encoder.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\display.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\tables.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\write\mod.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\write\encoder.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\encode.rs C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\decode.rs
+
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\lib.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\chunked_encoder.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\display.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\tables.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\write\mod.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\write\encoder.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\encode.rs:
+C:\Users\79211\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\decode.rs:
